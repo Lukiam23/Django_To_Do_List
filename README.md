@@ -1,2 +1,7 @@
 # Django_To_Do_List
-This repository is going to aim to bild a To Do List Page
+
+> Status: Developing
+
+
+### This repository is dedicated to the study of the Django framework. The main idea is to build a web application that will list the tasks that must be done.
+
