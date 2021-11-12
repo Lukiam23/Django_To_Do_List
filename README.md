@@ -19,3 +19,10 @@
 + name
 + user_id
 
+## Features in development:
++ It will possibile do login in the site
++ The user will be able to create, edit, delete, and consult a list item
+
+
+
+
