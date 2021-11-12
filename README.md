@@ -23,6 +23,27 @@
 + It will possibile do login in the site
 + The user will be able to create, edit, delete, and consult a list item
 
+## Technologies used:
+<table>
+  <tr>
+    <td>Django</td>
+    <td>Python</td>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>JavaScript</td>
+    <td>Bootstrap</td>
+  </tr>
+  
+  <tr>
+    <td>3.2.8</td>
+    <td>3.9.7</td>
+    <td>5</td>
+    <td>3</td>
+    <td>1.5</td>
+    <td>5.1.3</td>
+  </tr>
+</table>
+
 
 
 
