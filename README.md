@@ -14,3 +14,8 @@
 + birthday
 + email
 
+
+## The ListItem model has the following fields:
++ name
++ user_id
+
