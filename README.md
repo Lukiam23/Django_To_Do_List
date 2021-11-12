@@ -9,3 +9,8 @@
 + User
 + ListItem
 
+## The User model has the following fields:
++ name
++ birthday
++ email
+
